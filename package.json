@@ -1,0 +1,17 @@
+{
+  "name": "teleg-mtg",
+  "version": "1.0.0",
+  "description": "MTG card bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mtgsdk": "^0.4.3",
+    "telegraf": "^3.33.0"
+  }
+}
